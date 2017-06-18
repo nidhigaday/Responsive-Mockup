@@ -1,4 +1,6 @@
 # responsive-mockup
+https://nidhigaday.github.io/responsive-mockup/
+
 Responsive Mockup
 
 The basic purpose of this project is to showcase the performance of the site on multiple platforms.
