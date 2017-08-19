@@ -1,13 +1,18 @@
-# responsive-mockup
-https://nidhigaday.github.io/responsive-mockup/
+# Responsive Mock-up
 
-Responsive Mockup
+## Introduction
 
-The basic purpose of this project is to showcase the performance of the site on multiple platforms.
-I have used Mobile-first approach which develeping this site.
+This is my personal project to practice responsive design of User Interface. The goal includes achieving style, design and performance consistency in the cross-platform and cross-browser environment.
 
-##Disclaimer
+## Targets:
 
-Images used on this site are obtained from third parties. 
+* Fast page load
+* Mobile-first approach
+* No-page reload on changing sections on navigation
+* Responsive layout for images
 
-Thank you.
+## Result:
+
+Check out live page [HERE](https://nidhigaday.github.io/responsive-mockup/)
+
+**Disclaimer**: Images used on this site are obtained from third parties.
