@@ -11,6 +11,11 @@ This is my personal project to practice responsive design of User Interface. The
 * No-page reload on changing sections on navigation
 * Responsive layout for images
 
+## Width used for Mobile-first design
+
+* 600px
+* 866px
+
 ## Result:
 
 Check out live page [HERE](https://nidhigaday.github.io/responsive-mockup/)
