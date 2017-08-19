@@ -18,6 +18,6 @@ This is my personal project to practice responsive design of User Interface. The
 
 ## Result:
 
-Check out live page [HERE](https://nidhigaday.github.io/responsive-mockup/)
+Check out live page [HERE](https://nidhigaday.github.io/Responsive-Mockup/)
 
 **Disclaimer**: Images used on this site are obtained from third parties.
